@@ -1,2 +1,2 @@
-# p2
-prueba 2
+# archivo editado de pruebas n2 
+no se que estoy haciendo ayuda
